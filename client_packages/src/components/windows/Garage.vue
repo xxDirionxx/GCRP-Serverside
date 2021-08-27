@@ -259,7 +259,7 @@
                             margin-top: 1vh;
                             margin-left: 1vh;
                             font-size: 1.6vh;
-                            color: #ccc;
+                            color: rgb(0, 81, 255);
                         }
                         p {
                             align-self: auto;
