@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Venux": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\sebas\\OneDrive\\Desktop\\GCRP\\German Classic\\server.exe",
+      "workingDirectory": "C:\\Users\\sebas\\OneDrive\\Desktop\\GCRP\\German Classic"
+    }
+  }
+}
